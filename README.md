@@ -1,4 +1,4 @@
-# Multimeter project at SDU
+# Multimeter
 
 The project was realized by a team of five first semester students at University of Sauthern Denmark, studying electronics engineering. At the beginning of the semester, we had a meeting, where we distributed the tasks, so each of us had been working on a different part of the project, from enclosure design to PCB design and programming. The final report was a compilation of parts written by each of us about what we worked on. In addition, we had to write the introduction and ending.  
 
