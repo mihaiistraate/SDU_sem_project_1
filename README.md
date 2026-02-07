@@ -12,7 +12,7 @@ There was a fixed budget from the university of 1k DKK to order components neces
 
 <img width="1839" height="735" alt="components list" src="https://github.com/user-attachments/assets/cfd96bf6-a1bf-4efb-86ad-cf7bcbfe0c9d" />
 
-In the research phase, information was collected from the different lectures taught during classes; additionally further research was done for this purpose. Hereafter, the project started to take shape, and the designing and gathering all the material stages came. This phases gave a better insight in how a multimeter works, and how planning should be done to meet the given requirements.
+In the research phase, information was collected from different lectures; additionally further research was done for this purpose. Hereafter, the project started to take shape, and the designing and gathering all the material stages came. This phases gave a better insight in how a multimeter works, and how planning should be done to meet the given requirements.
 
 During the designing phase, a schematic was created, which was later used for building a whole circuit. KiCad 7.0 was used; a schematic and a PCB layout have been generated. The manufacturing of the PCB was done by the PCB miling team on campus:
 
