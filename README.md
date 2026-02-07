@@ -8,7 +8,7 @@ The product development process had four main stages, which are research, design
 
 <img width="1779" height="320" alt="gantt chart" src="https://github.com/user-attachments/assets/3a4e7c05-9f18-44de-bb8b-85b5cacad938" />
 
-There was a fixed budget from the university of 1k DKK to order components necessary for the PCB and enclosure. As it can be seen in the following picture, only 245 DKK out of the total budget of 1000 DKK have been used.
+There was a fixed budget from the university of 1k DKK to order components necessary for the PCB and enclosure. As it can be seen in the following picture, only 245 DKK have been used.
 
 <img width="1839" height="735" alt="components list" src="https://github.com/user-attachments/assets/cfd96bf6-a1bf-4efb-86ad-cf7bcbfe0c9d" />
 
