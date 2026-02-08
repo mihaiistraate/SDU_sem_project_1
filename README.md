@@ -35,7 +35,7 @@ To understand the usage of the product, a step-by-step description has been deve
 8. For checking the voltage of the battery, the second and third buttons must be pressed and hold. To quit this mode, the first button must be presed.
 9. To access the stopwatch, the first and fourth buttons need to be pressed and hold. After this, the instructions on how to operate the stopwatch will be shown on the display. To quit this mode, the first button must be pressed.
 
-Nearing conclusion, only calibratation and conducting testing were needed. During the calibration process, various scenarios have been simulated to ensure that criteria of accuracy and reliability for standard multimeter was fulfilled by the product, in total being 20 for each parameter. For reference, a professional device has been used. The results can be seen in the following pictures:
+Finally, only calibratation and conducting testing were needed. During the calibration process, various scenarios have been simulated to ensure that criteria of accuracy and reliability for standard multimeter was fulfilled by the product, in total being 20 for each parameter. For reference, a professional device has been used. The results can be seen in the following pictures:
 
 <img width="1258" height="487" alt="voltage accuracy" src="https://github.com/user-attachments/assets/a785c6e8-ba65-4cbc-8423-8f6bac079fb7" />
 <img width="719" height="521" alt="current accuracy" src="https://github.com/user-attachments/assets/6131112e-8b2c-46e4-9bc9-343ad33dfa89" />
