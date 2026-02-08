@@ -24,7 +24,7 @@ Moreover, the case had to be 3D printed, which allowed members to tailor the des
 
 The building phase was divided into three stages. Firstly, soldering of the PCB was started. Secondly, the code was completed. Lastly, the elements were integrated and the components assembled into the 3D printed case. This phase was undoubtedly the most troublesome in response to unexpected issues, and the students gained a lot of profound knowledge in problem-solving.
 
-To understand the usage of the product, a step-by-step description has been developed. In addition, a video was made to make: https://www.youtube.com/watch?v=Sm5R2FJd35g
+To understand the usage of the product, a step-by-step description has been developed. In addition, a video was made: https://www.youtube.com/watch?v=Sm5R2FJd35g
 1. To turn ON the device, the keylock switch has to be used.
 2. During the startup process, the display will show a welcome message and a battery check.
 3. The main menu will be shown, which can be navigated by pressing the four buttons.
